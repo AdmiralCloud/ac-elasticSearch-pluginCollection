@@ -3,3 +3,4 @@ node_modules
 dictionary*
 wordlist.txt
 customWords*
+config.js
