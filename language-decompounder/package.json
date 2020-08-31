@@ -1,0 +1,12 @@
+{
+  "name": "ac-elasticSearch-pluginCollection",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Mark Poepping",
+  "license": "MIT",
+  "dependencies": {
+    "hyphenopoly": "^4.7.0",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5"
+  }
+}
