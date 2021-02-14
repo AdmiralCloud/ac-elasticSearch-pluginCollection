@@ -94,7 +94,7 @@ async.series({
       settings.mappings = {
         properties: {
           name:             { type: "keyword" },
-          country:          { type: "strkeywording" },
+          country:          { type: "keyword" },
           altCountry:       { type: "keyword" },
           muni:             { type: "keyword" },
           muniSub:          { type: "keyword" },
