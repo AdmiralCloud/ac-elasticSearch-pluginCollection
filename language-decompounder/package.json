@@ -7,6 +7,6 @@
   "dependencies": {
     "hyphenopoly": "^4.7.0",
     "lodash": "^4.17.20",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
